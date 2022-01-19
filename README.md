@@ -1,2 +1,2 @@
 # Python
-My own scripts in python language 
+My own python scripts to implement the basic concepts in python language 
