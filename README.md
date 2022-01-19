@@ -1,2 +1,2 @@
 # Python
-My works in python program 
+My own scripts in python language 
